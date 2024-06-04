@@ -60,24 +60,6 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://github.com/Vamsi-Agnihotram-18/Cineflix---Full-stack-Application",
 		},
-
-		{
-			title: "Twitter-Data-Analysis",
-			description:
-				"Hadoop framework to analyze unstructured data that we obtain from Twitter and perform sentiment and trend analysis using Hive on MapReduce and Spark on keyword “COVID19”",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com/Vamsi-Agnihotram-18/Twitter-Analysis-Hadoop-Spark-Hive",
-		},
-
-		{
-			title: "Simple Cloud Infrastructure Manager (SCIM)",
-			description:
-				"SCIM is a lightweight tool designed to streamline the management of cloud resources. Developed with a focus on automation and efficient configuration management, SCIM provides a robust solution for deploying, configuring, and maintaining servers and storage across cloud environments",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com/Vamsi-Agnihotram-18/SCIM-Terraform-Ansible-AWS-Java",
-		},
 	],
 };
 
